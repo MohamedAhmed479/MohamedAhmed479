@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Mohamed Ahmed 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=550&lines=Backend+Developer+(PHP+/+Laravel);Technical+Mentor+%26+Leader;Production-Level+API+Architect;Problem+Solver+%F0%9F%92%AB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=550&lines=Backend+Developer+(PHP+/+Laravel);Problem+Solver+%F0%9F%92%AB" alt="Typing SVG" />
 </p>
 
 ---
@@ -47,10 +47,9 @@
 ### 📊 Personal Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohamedAhmed479&show_icons=true&theme=default&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAhmed479&layout=compact&theme=default&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MohamedAhmedDev&show_icons=true&theme=radical&rank_icon=github" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAhmedDev&layout=compact&theme=radical" width="48%" />
 </p>
-
 
 ---
 
