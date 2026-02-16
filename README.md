@@ -44,22 +44,16 @@
 
 ---
 
----
+### 📊 Personal Metrics
 
-## 📊 GitHub Metrics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MohamedAhmed479&show_icons=true&theme=radical&rank_icon=github" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAhmed479&layout=compact&theme=radical" width="48%" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohamedAhmedDev&show_icons=true&theme=radical&rank_icon=github&display_format=svg" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAhmedDev&layout=compact&theme=radical&display_format=svg" width="48%" alt="Top Languages" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedAhmedDev&theme=radical" width="100%" alt="GitHub Streak" />
-</div>
 
 ---
+
 ### 📫 Connect with me:
 
 <p align="center">
