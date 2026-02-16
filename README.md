@@ -47,8 +47,8 @@
 ### 📊 Personal Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohamedAhmed479&show_icons=true&theme=radical&rank_icon=github" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAhmed479&layout=compact&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MohamedAhmed479&show_icons=true&theme=default&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAhmed479&layout=compact&theme=default&hide_border=true" width="48%" />
 </p>
 
 
