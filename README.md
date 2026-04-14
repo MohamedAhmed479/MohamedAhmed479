@@ -165,8 +165,8 @@ Integrated into a live production codebase at BottleTech. Rapidly adopted CodeIg
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0C1220&title_color=3B82F6&icon_color=22D3EE&text_color=E2E8F0" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0C1220&title_color=3B82F6&text_color=E2E8F0&langs_count=6" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=MohamedAhmed479&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0C1220&title_color=3B82F6&icon_color=22D3EE&text_color=E2E8F0" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAhmed479&layout=compact&theme=tokyonight&hide_border=true&bg_color=0C1220&title_color=3B82F6&text_color=E2E8F0&langs_count=6" />
 
 </div>
 
